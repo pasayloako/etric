@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/runner/workspace/android-game/app/.cxx/Debug/4p29345i/x86_64",
+  "command": "/tmp/android-sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android26 --sysroot=/tmp/android-sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/linux-x86_64/sysroot -I/tmp/android-sdk/ndk/27.2.12479018/sources/android/native_app_glue -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o CMakeFiles/native_app_glue.dir/tmp/android-sdk/ndk/27.2.12479018/sources/android/native_app_glue/android_native_app_glue.c.o -c /tmp/android-sdk/ndk/27.2.12479018/sources/android/native_app_glue/android_native_app_glue.c",
+  "file": "/tmp/android-sdk/ndk/27.2.12479018/sources/android/native_app_glue/android_native_app_glue.c"
+},
+{
+  "directory": "/home/runner/workspace/android-game/app/.cxx/Debug/4p29345i/x86_64",
+  "command": "/tmp/android-sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android26 --sysroot=/tmp/android-sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dimisubebe_EXPORTS -I/tmp/android-sdk/ndk/27.2.12479018/sources/android/native_app_glue -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++17 -O2 -Wall -Wextra -fno-limit-debug-info  -fPIC -Wall -Wextra -Wpedantic -Wno-unused-parameter -ffast-math -std=c++17 -o CMakeFiles/imisubebe.dir/audio.cpp.o -c /home/runner/workspace/android-game/app/src/main/cpp/audio.cpp",
+  "file": "/home/runner/workspace/android-game/app/src/main/cpp/audio.cpp"
+},
+{
+  "directory": "/home/runner/workspace/android-game/app/.cxx/Debug/4p29345i/x86_64",
+  "command": "/tmp/android-sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android26 --sysroot=/tmp/android-sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dimisubebe_EXPORTS -I/tmp/android-sdk/ndk/27.2.12479018/sources/android/native_app_glue -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++17 -O2 -Wall -Wextra -fno-limit-debug-info  -fPIC -Wall -Wextra -Wpedantic -Wno-unused-parameter -ffast-math -std=c++17 -o CMakeFiles/imisubebe.dir/game.cpp.o -c /home/runner/workspace/android-game/app/src/main/cpp/game.cpp",
+  "file": "/home/runner/workspace/android-game/app/src/main/cpp/game.cpp"
+},
+{
+  "directory": "/home/runner/workspace/android-game/app/.cxx/Debug/4p29345i/x86_64",
+  "command": "/tmp/android-sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android26 --sysroot=/tmp/android-sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dimisubebe_EXPORTS -I/tmp/android-sdk/ndk/27.2.12479018/sources/android/native_app_glue -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++17 -O2 -Wall -Wextra -fno-limit-debug-info  -fPIC -Wall -Wextra -Wpedantic -Wno-unused-parameter -ffast-math -std=c++17 -o CMakeFiles/imisubebe.dir/main.cpp.o -c /home/runner/workspace/android-game/app/src/main/cpp/main.cpp",
+  "file": "/home/runner/workspace/android-game/app/src/main/cpp/main.cpp"
+},
+{
+  "directory": "/home/runner/workspace/android-game/app/.cxx/Debug/4p29345i/x86_64",
+  "command": "/tmp/android-sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android26 --sysroot=/tmp/android-sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dimisubebe_EXPORTS -I/tmp/android-sdk/ndk/27.2.12479018/sources/android/native_app_glue -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++17 -O2 -Wall -Wextra -fno-limit-debug-info  -fPIC -Wall -Wextra -Wpedantic -Wno-unused-parameter -ffast-math -std=c++17 -o CMakeFiles/imisubebe.dir/map_data.cpp.o -c /home/runner/workspace/android-game/app/src/main/cpp/map_data.cpp",
+  "file": "/home/runner/workspace/android-game/app/src/main/cpp/map_data.cpp"
+},
+{
+  "directory": "/home/runner/workspace/android-game/app/.cxx/Debug/4p29345i/x86_64",
+  "command": "/tmp/android-sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android26 --sysroot=/tmp/android-sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dimisubebe_EXPORTS -I/tmp/android-sdk/ndk/27.2.12479018/sources/android/native_app_glue -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++17 -O2 -Wall -Wextra -fno-limit-debug-info  -fPIC -Wall -Wextra -Wpedantic -Wno-unused-parameter -ffast-math -std=c++17 -o CMakeFiles/imisubebe.dir/renderer.cpp.o -c /home/runner/workspace/android-game/app/src/main/cpp/renderer.cpp",
+  "file": "/home/runner/workspace/android-game/app/src/main/cpp/renderer.cpp"
+}
+]

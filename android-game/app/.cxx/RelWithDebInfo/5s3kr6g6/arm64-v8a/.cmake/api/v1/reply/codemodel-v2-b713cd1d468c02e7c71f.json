@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-RelWithDebInfo-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "imisubebe",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "imisubebe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-imisubebe-RelWithDebInfo-1cc920c1a753d92fac4e.json",
+					"name" : "imisubebe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "native_app_glue::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-native_app_glue-RelWithDebInfo-7ab18520bfeac2411710.json",
+					"name" : "native_app_glue",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/runner/workspace/android-game/app/.cxx/RelWithDebInfo/5s3kr6g6/arm64-v8a",
+		"source" : "/home/runner/workspace/android-game/app/src/main/cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

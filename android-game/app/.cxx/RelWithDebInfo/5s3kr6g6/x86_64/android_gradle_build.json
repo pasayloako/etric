@@ -1,0 +1,46 @@
+{
+  "buildFiles": [
+    "/home/runner/workspace/android-game/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/tmp/android-sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/runner/workspace/android-game/app/.cxx/RelWithDebInfo/5s3kr6g6/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/tmp/android-sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/runner/workspace/android-game/app/.cxx/RelWithDebInfo/5s3kr6g6/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "imisubebe::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86_64",
+      "artifactName": "imisubebe",
+      "output": "/home/runner/workspace/android-game/app/build/intermediates/cxx/RelWithDebInfo/5s3kr6g6/obj/x86_64/libimisubebe.so",
+      "runtimeFiles": []
+    },
+    "native_app_glue::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86_64",
+      "artifactName": "native_app_glue",
+      "output": "/home/runner/workspace/android-game/app/.cxx/RelWithDebInfo/5s3kr6g6/x86_64/libnative_app_glue.a"
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/tmp/android-sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/linux-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/tmp/android-sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

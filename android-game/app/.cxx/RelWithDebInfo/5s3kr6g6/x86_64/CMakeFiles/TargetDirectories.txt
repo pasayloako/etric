@@ -1,0 +1,4 @@
+/home/runner/workspace/android-game/app/.cxx/RelWithDebInfo/5s3kr6g6/x86_64/CMakeFiles/native_app_glue.dir
+/home/runner/workspace/android-game/app/.cxx/RelWithDebInfo/5s3kr6g6/x86_64/CMakeFiles/imisubebe.dir
+/home/runner/workspace/android-game/app/.cxx/RelWithDebInfo/5s3kr6g6/x86_64/CMakeFiles/edit_cache.dir
+/home/runner/workspace/android-game/app/.cxx/RelWithDebInfo/5s3kr6g6/x86_64/CMakeFiles/rebuild_cache.dir

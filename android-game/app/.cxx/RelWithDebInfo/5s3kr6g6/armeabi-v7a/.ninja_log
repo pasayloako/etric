@@ -1,0 +1,19 @@
+# ninja log v5
+2	576	1793503753063832340	CMakeFiles/native_app_glue.dir/tmp/android-sdk/ndk/27.2.12479018/sources/android/native_app_glue/android_native_app_glue.c.o	1e45428b21234143
+617	701	1793503753199832340	libnative_app_glue.a	3ea0035ab2250985
+9	1381	1793503753875832340	CMakeFiles/imisubebe.dir/audio.cpp.o	ca5e3a0ef08d0b71
+23	2272	1793503754767832340	CMakeFiles/imisubebe.dir/main.cpp.o	6bfd52d541bfecd2
+56	2301	1793503754799832340	CMakeFiles/imisubebe.dir/renderer.cpp.o	89ee3699eff65d88
+15	2306	1793503754803832340	CMakeFiles/imisubebe.dir/game.cpp.o	2dd2f6db40eb8e1c
+33	3626	1793503756115832340	CMakeFiles/imisubebe.dir/map_data.cpp.o	4233da203e7d8f4d
+3627	3794	1793503756299832340	/home/runner/workspace/android-game/app/build/intermediates/cxx/RelWithDebInfo/5s3kr6g6/obj/armeabi-v7a/libimisubebe.so	119ec0f1cae1350c
+66	2000	1793504016239391612	CMakeFiles/imisubebe.dir/main.cpp.o	6bfd52d541bfecd2
+71	2461	1793504016715391612	CMakeFiles/imisubebe.dir/renderer.cpp.o	89ee3699eff65d88
+2462	2599	1793504016859391612	/home/runner/workspace/android-game/app/build/intermediates/cxx/RelWithDebInfo/5s3kr6g6/obj/armeabi-v7a/libimisubebe.so	119ec0f1cae1350c
+69	2270	1793504197535608473	CMakeFiles/imisubebe.dir/main.cpp.o	6bfd52d541bfecd2
+63	2319	1793504197583608473	CMakeFiles/imisubebe.dir/game.cpp.o	2dd2f6db40eb8e1c
+84	2761	1793504198019608473	CMakeFiles/imisubebe.dir/renderer.cpp.o	89ee3699eff65d88
+77	4295	1793504199551608473	CMakeFiles/imisubebe.dir/map_data.cpp.o	4233da203e7d8f4d
+4295	4508	1793504199783608473	/home/runner/workspace/android-game/app/build/intermediates/cxx/RelWithDebInfo/5s3kr6g6/obj/armeabi-v7a/libimisubebe.so	119ec0f1cae1350c
+72	2057	1793504311027372272	CMakeFiles/imisubebe.dir/renderer.cpp.o	89ee3699eff65d88
+2059	2221	1793504311203372272	/home/runner/workspace/android-game/app/build/intermediates/cxx/RelWithDebInfo/5s3kr6g6/obj/armeabi-v7a/libimisubebe.so	119ec0f1cae1350c

@@ -3,3 +3,9 @@
 
 # No need to store the pnpm store twice.
 .local
+
+# Android Studio and local APK build outputs.
+android-game/.gradle
+android-game/local.properties
+android-game/**/build
+generated-artifacts

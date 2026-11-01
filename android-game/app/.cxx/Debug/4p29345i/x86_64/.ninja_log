@@ -1,0 +1,19 @@
+# ninja log v5
+1	594	1793503739723832340	CMakeFiles/native_app_glue.dir/tmp/android-sdk/ndk/27.2.12479018/sources/android/native_app_glue/android_native_app_glue.c.o	1085c2bb2005fc24
+631	759	1793503739867832340	libnative_app_glue.a	3ea0035ab2250985
+8	1555	1793503740691832340	CMakeFiles/imisubebe.dir/audio.cpp.o	8f1bc2ef31daf1b1
+13	2046	1793503741171832340	CMakeFiles/imisubebe.dir/game.cpp.o	efdfd4beb426d0df
+44	2680	1793503741803832340	CMakeFiles/imisubebe.dir/renderer.cpp.o	c1beec38c63c181
+19	2698	1793503741831832340	CMakeFiles/imisubebe.dir/main.cpp.o	7849b2a81d2f81d2
+33	3407	1793503742535832340	CMakeFiles/imisubebe.dir/map_data.cpp.o	d31b3d78bd84d28
+3408	3587	1793503742727832340	/home/runner/workspace/android-game/app/build/intermediates/cxx/Debug/4p29345i/obj/x86_64/libimisubebe.so	c5793ac76a4e1aa4
+60	1691	1793504009539391612	CMakeFiles/imisubebe.dir/main.cpp.o	7849b2a81d2f81d2
+66	2103	1793504009951391612	CMakeFiles/imisubebe.dir/renderer.cpp.o	c1beec38c63c181
+2103	2277	1793504010135391612	/home/runner/workspace/android-game/app/build/intermediates/cxx/Debug/4p29345i/obj/x86_64/libimisubebe.so	c5793ac76a4e1aa4
+62	2079	1793504186479608473	CMakeFiles/imisubebe.dir/game.cpp.o	efdfd4beb426d0df
+68	2189	1793504186583608473	CMakeFiles/imisubebe.dir/main.cpp.o	7849b2a81d2f81d2
+81	2629	1793504187023608473	CMakeFiles/imisubebe.dir/renderer.cpp.o	c1beec38c63c181
+75	4214	1793504188587608473	CMakeFiles/imisubebe.dir/map_data.cpp.o	d31b3d78bd84d28
+4214	4441	1793504188843608473	/home/runner/workspace/android-game/app/build/intermediates/cxx/Debug/4p29345i/obj/x86_64/libimisubebe.so	c5793ac76a4e1aa4
+57	2143	1793504304423372272	CMakeFiles/imisubebe.dir/renderer.cpp.o	c1beec38c63c181
+2145	2322	1793504304611372272	/home/runner/workspace/android-game/app/build/intermediates/cxx/Debug/4p29345i/obj/x86_64/libimisubebe.so	c5793ac76a4e1aa4

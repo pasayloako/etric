@@ -53,3 +53,11 @@ Thumbs.db
 # Replit
 .cache/
 .local/
+
+# Native Android game
+/android-game/.gradle/
+/android-game/local.properties
+/android-game/**/build/
+/generated-artifacts/
+*.jks
+*.keystore
